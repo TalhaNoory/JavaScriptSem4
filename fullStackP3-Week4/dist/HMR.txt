@@ -1,0 +1,10 @@
+Her skulle jeg demonstrere hvordan jeg bruger HOT MODULE REPLACEMENT
+
+Eksemenpelvis;
+Hvis man ændrede noget i ./style.css
+
+body {
+    background: blue;
+}
+
+Så ville den ædnre det uden at skulle refresh sin browser
